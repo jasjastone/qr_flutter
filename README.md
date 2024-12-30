@@ -1,4 +1,5 @@
 ### DONT USE THIS AS THIS IS FOR PERSONAL USE ONLY
+[Original Package](https://github.com/theyakka/qr.flutter)
 <img src="https://storage.googleapis.com/product-logos/logo_qr_flutter.png" align="center" width="200">
 
 QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.

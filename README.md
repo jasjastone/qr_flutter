@@ -1,3 +1,4 @@
+### DONT USE THIS AS THIS IS FOR PERSONAL USE ONLY
 <img src="https://storage.googleapis.com/product-logos/logo_qr_flutter.png" align="center" width="200">
 
 QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.
@@ -5,7 +6,7 @@ QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widg
 # Need help?
 
 Please do not submit an issue for a "How do i ..?" or "What is the deal with ..?" type question. They will pretty much be closed instantly. If you have questions, please ask them on the Discussions board or on Stack Overflow. They will get answered there.
-
+git push -u origin main 
 Using issues creates a large amount of noise and results in real issues getting fixed slower.
 
 # Features
